@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/prettythings.gif" width=70%">
+  <img src="./assets/prettythings.gif" width=90%">
 </p>
 
 # 👋 Hi there, I'm Justin! 🚀
