@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/prettythings.gif" width="100%">
+  <img src="./assets/prettythings.gif" width=100%">
 </p>
 
 # 👋 Hi there, I'm Justin! 🚀
@@ -64,7 +64,7 @@ what makes programming fun for me.
 ### 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
