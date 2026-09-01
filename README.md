@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Scuishland_.gif" width=145%">
+  <img src="./assets/Scuishland_.gif" width=200%">
 </p>
 
 # 👋 Hi there, I'm Justin! 🚀
