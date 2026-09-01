@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>⚙️ Backend Development Student</b>
+  <b>⚙️ Software Enginner Student</b>
 </p>
 
 ---
