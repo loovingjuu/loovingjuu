@@ -64,7 +64,7 @@ what makes programming fun for me.
 ### 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,githubcopilot,chatgpt" />
 </p>
 
 ---
