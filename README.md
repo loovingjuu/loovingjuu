@@ -46,7 +46,7 @@ what makes programming fun for me.
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🌐 Web
@@ -58,7 +58,7 @@ what makes programming fun for me.
 ### ⚛️ Currently Exploring
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### 🔧 Tools
@@ -83,9 +83,3 @@ what makes programming fun for me.
 
 ⚡ Express.js
    └── Learning APIs, routing & backend structure
-
-⚛️ React
-   └── Just started exploring component-based development
-
-▲ Next.js
-   └── Just getting started & exploring the framework
