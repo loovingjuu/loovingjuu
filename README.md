@@ -27,7 +27,6 @@ I'm still learning, still experimenting, and definitely still
 making a lot of mistakes along the way. But that's basically
 what makes programming fun for me.
 
-- 🐍 Currently learning **Python**
 - 🟨 Learning **JavaScript** for backend development
 - 🟢 Exploring **Node.js & Express.js**
 - ⚛️ Recently started exploring **React & Next.js**
