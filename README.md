@@ -138,27 +138,31 @@ backend-learning/
 
 ---
 
+
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=loovingjuu&label=Profile%20Views&color=0284C7&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/loovingjuu?style=for-the-badge&color=2563EB&labelColor=0F172A" alt="GitHub followers" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=loovingjuu&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loovingjuu&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+  <img src="https://komarev.com/ghpvc/?username=loovingjuu&label=Profile%20Views&color=0284C7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/loovingjuu?style=for-the-badge&color=2563EB&labelColor=0F172A" alt="GitHub Followers" />
 </p>
 
 ---
 
-## Contribution Graph
+## Commit Overview
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=loovingjuu&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=loovingjuu&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Commit Statistics" />
 </p>
 
 ---
+
+## Repository Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=loovingjuu&theme=tokyonight" alt="Repository Statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=loovingjuu&theme=tokyonight" alt="Repository Languages" />
+</p>
+
 
 
 ## Connect with Me
